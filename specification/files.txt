@@ -1,0 +1,12 @@
+../../data/parametars/conv1/conv1_filters.txt
+../../data/parametars/conv1/conv1_bias.txt
+../../data/parametars/conv2/conv2_filters.txt
+../../data/parametars/conv2/conv2_bias.txt
+../../data/parametars/conv3/conv3_filters.txt
+../../data/parametars/conv3/conv3_bias.txt
+../../data/parametars/dense1/dense1_weights.txt
+../../data/parametars/dense1/dense1_bias.txt
+../../data/parametars/dense2/dense2_weights.txt
+../../data/parametars/dense2/dense2_bias.txt
+../../data/pictures.txt
+../../data/labels.txt

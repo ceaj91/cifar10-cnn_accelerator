@@ -1,0 +1,1 @@
+cmd_/home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/driver.mod := printf '%s\n'   driver.o | awk '!x[$$0]++ { print("/home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/"$$0) }' > /home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/driver.mod

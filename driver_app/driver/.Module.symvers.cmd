@@ -1,0 +1,1 @@
+cmd_/home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/Module.symvers -T /home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/modules.order -i Module.symvers -e 

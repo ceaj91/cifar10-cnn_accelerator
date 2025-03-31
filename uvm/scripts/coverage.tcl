@@ -1,0 +1,2 @@
+exec xcrg -report_format html -dir $root_dir/vivado_project/cnn_3_agent.sim/sim_1/behav/xsim/xsim.covdb -report_dir $root_dir/coverage
+#prvo destinacija foldera "xsim.covdb" a drugo je destinacija gde zelis da ti izgenerise html fajl

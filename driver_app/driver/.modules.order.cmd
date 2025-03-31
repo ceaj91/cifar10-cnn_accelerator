@@ -1,0 +1,1 @@
+cmd_/home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/modules.order := {   echo /home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/driver.o; :; } > /home/ivan/Desktop/FAKS/4.godina/ESL/fakultetski_git_server/y23-g02/driver_app/driver/modules.order
